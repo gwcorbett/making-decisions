@@ -6,7 +6,8 @@
   If it is not, console log "Coding has its challenges."
 */
 
-//CODE HERE
+var = lovesCode
+if (lovesCode =)
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
